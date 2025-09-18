@@ -1,0 +1,114 @@
+{
+  "documents": [
+    {
+      "id": "501/SPC-2025",
+      "text": "Buongiorno, segnalo un problema di sincronizzazione tra il database principale e quello di backup. I dati dei clienti risultano disallineati da questa mattina alle ore 09:30 circa. Il log riporta l'errore 'Connection timeout - Server unreachable'. Potete verificare la situazione e ripristinare l'allineamento? Grazie per il supporto. Cordiali saluti, Marco Rossi - Responsabile IT - marco.rossi@techsolutions.it - Tel: +39 02 1234567 - TECH SOLUTIONS S.R.L. - Via Milano 15, 20100 Milano",
+      "metadata": {
+        "title": "Problema sincronizzazione database clienti",
+        "company": "TECH SOLUTIONS S.R.L.",
+        "date": "2025-01-22",
+        "year": "2025",
+        "original_id": 501
+      }
+    },
+    {
+      "id": "502/SPC-2025",
+      "text": "Buongiorno, da ieri non riesco a generare le fatture elettroniche dal sistema gestionale. Compare l'errore 'XML non valido - Elemento CedentePrestatore mancante'. Ho verificato i dati anagrafici dell'azienda e risultano completi. Il problema si presenta con tutti i clienti. Serve intervento urgente per ripristinare la funzionalità. Laura Bianchi - Ufficio Amministrazione - laura.bianchi@digitalservices.it - DIGITAL SERVICES S.P.A.",
+      "metadata": {
+        "title": "Errore stampa fatture elettroniche",
+        "company": "DIGITAL SERVICES S.P.A.",
+        "date": "2025-01-22",
+        "year": "2025",
+        "original_id": 502
+      }
+    },
+    {
+      "id": "503/SPC-2025",
+      "text": "Salve, dobbiamo configurare il nuovo magazzino automatico per la gestione degli ordini e-commerce. Dettagli: Codice deposito MAG003, Ubicazione Via Industriale 45 Milano, Capacità 10.000 unità, Sistema WMS integrato. Necessaria configurazione parametri di picking automatico e interfaccia con il gestionale esistente. Quando possiamo programmare l'intervento? Alessandro Verdi - Responsabile Logistica - a.verdi@logisticsexpert.it - +39 02 9876543",
+      "metadata": {
+        "title": "Configurazione nuovo magazzino automatico",
+        "company": "LOGISTICS EXPERT S.R.L.",
+        "date": "2025-01-22",
+        "year": "2025",
+        "original_id": 503
+      }
+    },
+    {
+      "id": "504/SPC-2025",
+      "text": "Buongiorno, ho necessità di importare l'anagrafica fornitori da file Excel contenente circa 500 record. Colonne presenti: Ragione Sociale, Partita IVA, Codice Fiscale, Indirizzo, CAP, Città, Provincia, Telefono, Email, Codice IBAN. Qual è la procedura per l'importazione massiva? Esiste un template specifico da utilizzare? Giovanni Neri - Responsabile Acquisti - g.neri@importexport.it - IMPORT EXPORT S.R.L.",
+      "metadata": {
+        "title": "Importazione dati fornitori da Excel",
+        "company": "IMPORT EXPORT S.R.L.",
+        "date": "2025-01-22",
+        "year": "2025",
+        "original_id": 504
+      }
+    },
+    {
+      "id": "505/SPC-2025",
+      "text": "URGENTE - Il sistema POS si blocca durante le operazioni di vendita su tutte e 4 le postazioni. Problema iniziato alle ore 12:30. Messaggio di errore: 'Timeout connessione database - Codice errore 1001'. Il punto vendita è completamente fermo. Necessario intervento immediato. Contatto diretto: +39 335 1234567. Maria Gialli - Store Manager - m.gialli@retailmarket.it - RETAIL MARKET S.R.L.",
+      "metadata": {
+        "title": "Blocco sistema di cassa durante vendite",
+        "company": "RETAIL MARKET S.R.L.",
+        "date": "2025-01-22",
+        "year": "2025",
+        "original_id": 505
+      }
+    },
+    {
+      "id": "506/SPC-2025",
+      "text": "Gentile assistenza, dobbiamo aggiornare i listini per la stagione Primavera-Estate 2025. Categorie interessate: Abbigliamento donna (codici 1000-1999), Abbigliamento uomo (codici 2000-2999), Accessori (codici 3000-3999). Incremento medio +8% su tutti i prezzi. Data attivazione: 01 febbraio 2025. Necessaria verifica compatibilità con promozioni attive. Francesca Blu - Responsabile Commerciale - f.blu@fashionwholesale.it - FASHION WHOLESALE S.P.A.",
+      "metadata": {
+        "title": "Aggiornamento listini prezzi stagionali",
+        "company": "FASHION WHOLESALE S.P.A.",
+        "date": "2025-01-22",
+        "year": "2025",
+        "original_id": 506
+      }
+    },
+    {
+      "id": "507/SPC-2025",
+      "text": "Buongiorno, da stamattina non riesco a connettermi alla VPN aziendale. Errore restituito: 'Autenticazione fallita - Credenziali non valide'. Ho verificato username e password multiple volte. Il problema si presenta sia da Windows che da MacOS. Altri colleghi segnalano lo stesso problema. Possibile malfunzionamento del server VPN? Paolo Verde - Consulente IT - p.verde@remotework.it - +39 333 4567890 - REMOTE WORK S.R.L.",
+      "metadata": {
+        "title": "Connessione VPN non funzionante",
+        "company": "REMOTE WORK S.R.L.",
+        "date": "2025-01-22",
+        "year": "2025",
+        "original_id": 507
+      }
+    },
+    {
+      "id": "508/SPC-2025",
+      "text": "Spettabile assistenza, stiamo pianificando la migrazione del server Exchange dalla versione 2016 alla 2022. Dettagli progetto: 150 caselle di posta elettronica, Database totale 500GB, Finestra di migrazione prevista weekend 15-16 febbraio 2025. Richiediamo preventivo per il servizio di migrazione e supporto post-implementazione. Roberto Azzurro - CTO - r.azzurro@comsystems.it - COMMUNICATION SYSTEMS S.P.A.",
+      "metadata": {
+        "title": "Migrazione server email Exchange",
+        "company": "COMMUNICATION SYSTEMS S.P.A.",
+        "date": "2025-01-22",
+        "year": "2025",
+        "original_id": 508
+      }
+    },
+    {
+      "id": "509/SPC-2025",
+      "text": "ALERT SISTEMA: Il backup programmato delle ore 02:00 non si è completato correttamente. Processo interrotto al 78% di completamento. Errore rilevato: 'Spazio insufficiente su disco di destinazione'. Percorso backup: \\\\backup-server\\daily\\2025-01-22. Spazio residuo: 45GB di 2TB totali. Necessario liberare spazio e ripetere il backup per garantire continuità dei dati. Sistema di monitoraggio automatico - DATA PROTECTION S.R.L.",
+      "metadata": {
+        "title": "Backup automatico non completato",
+        "company": "DATA PROTECTION S.R.L.",
+        "date": "2025-01-22",
+        "year": "2025",
+        "original_id": 509
+      }
+    },
+    {
+      "id": "510/SPC-2025",
+      "text": "Buongiorno, abbiamo implementato il nuovo sistema CRM e desideriamo organizzare una sessione di formazione per il team commerciale. Partecipanti: 12 persone. Durata prevista: 4 ore. Argomenti: Gestione contatti e lead, Creazione preventivi automatici, Report vendite e dashboard. Disponibilità nelle prossime due settimane, preferibilmente mattina. Sara Rosa - HR Manager - s.rosa@salesmanagement.it - +39 02 5555666 - SALES MANAGEMENT S.P.A.",
+      "metadata": {
+        "title": "Richiesta formazione nuovo software CRM",
+        "company": "SALES MANAGEMENT S.P.A.",
+        "date": "2025-01-22",
+        "year": "2025",
+        "original_id": 510
+      }
+    }
+  ]
+}

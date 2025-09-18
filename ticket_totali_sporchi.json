@@ -1,0 +1,72 @@
+[
+	{
+		"ttnumtic": 501,
+		"ttshotxt": "Problema sincronizzazione database clienti",
+		"cotitle": "TECH SOLUTIONS S.R.L.",
+		"dt_testo": "<div class=\"WordSection1\">\n<p class=\"MsoNormal\"><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">Buongiorno,<\/span><\/p>\n<p class=\"MsoNormal\"><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">segnalo un problema di sincronizzazione tra il database principale e quello di backup. I dati dei clienti risultano disallineati da questa mattina.<\/span><\/p>\n<p class=\"MsoNormal\"><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">Potete verificare la situazione?<\/span><\/p>\n<p class=\"MsoNormal\"><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">Grazie,<\/span><\/p>\n<p class=\"MsoNormal\"><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">Marco Rossi<br \/>Responsabile IT<br \/>marco.rossi@techsolutions.it<\/span><\/p>\n<\/div>",
+		"dt__data": "2025-01-22T16:45:12.000Z"
+	},
+	{
+		"ttnumtic": 502,
+		"ttshotxt": "Errore stampa fatture elettroniche",
+		"cotitle": "DIGITAL SERVICES SPA",
+		"dt_testo": "<div class=\"WordSection1\">\n<p class=\"MsoNormal\">Salve,<\/p>\n<p class=\"MsoNormal\">da ieri non riesco a stampare le fatture elettroniche dal sistema. Compare un errore di formato XML non valido.<\/p>\n<p class=\"MsoNormal\">Il messaggio esatto è: \"Errore nella validazione del file XML - Elemento mancante: CedentePrestatore\"<\/p>\n<p class=\"MsoNormal\">Attendo supporto urgente.<\/p>\n<p class=\"MsoNormal\">Cordiali saluti,<br \/>Laura Bianchi<br \/>Ufficio Amministrazione<\/p>\n<\/div>",
+		"dt__data": "2025-01-22T15:20:44.000Z"
+	},
+	{
+		"ttnumtic": 503,
+		"ttshotxt": "Configurazione nuovo magazzino automatico",
+		"cotitle": "LOGISTICS EXPERT S.R.L.",
+		"dt_testo": "<div class=\"WordSection1\">\n<p class=\"MsoNormal\">Buongiorno,<\/p>\n<p class=\"MsoNormal\">abbiamo bisogno di configurare il nuovo magazzino automatico per la gestione degli ordini online.<\/p>\n<p class=\"MsoNormal\">Parametri richiesti:<\/p>\n<p class=\"MsoNormal\">- Codice deposito: MAG003<\/p>\n<p class=\"MsoNormal\">- Indirizzo: Via Industriale 45, Milano<\/p>\n<p class=\"MsoNormal\">- Capacità: 10.000 unità<\/p>\n<p class=\"MsoNormal\">Quando possiamo programmare l'intervento?<\/p>\n<p class=\"MsoNormal\">Grazie,<br \/>Alessandro Verdi<\/p>\n<\/div>",
+		"dt__data": "2025-01-22T14:30:18.000Z"
+	},
+	{
+		"ttnumtic": 504,
+		"ttshotxt": "Importazione dati fornitori da Excel",
+		"cotitle": "IMPORT EXPORT S.R.L.",
+		"dt_testo": "Buongiorno,\n\nho necessità di importare l'anagrafica fornitori da un file Excel con circa 500 record.\nIl file contiene: Ragione sociale, Partita IVA, Indirizzo, Telefono, Email.\n\nQual è la procedura corretta per l'importazione massiva?\n\nDistinti saluti,\nGiovanni Neri\nResponsabile Acquisti",
+		"dt__data": "2025-01-22T13:15:32.000Z"
+	},
+	{
+		"ttnumtic": 505,
+		"ttshotxt": "Blocco sistema di cassa durante vendite",
+		"cotitle": "RETAIL MARKET S.R.L.",
+		"dt_testo": "<div class=\"WordSection1\">\n<p class=\"MsoNormal\">URGENTE - Il sistema di cassa si blocca durante le operazioni di vendita.<\/p>\n<p class=\"MsoNormal\">Problema riscontrato su tutte e 4 le postazioni alle ore 12:30 circa.<\/p>\n<p class=\"MsoNormal\">Messaggio di errore: \"Timeout connessione database - Codice 1001\"<\/p>\n<p class=\"MsoNormal\">Il negozio è fermo, serve intervento immediato.<\/p>\n<p class=\"MsoNormal\">Contatto: 335-1234567<\/p>\n<p class=\"MsoNormal\">Maria Gialli<br \/>Store Manager<\/p>\n<\/div>",
+		"dt__data": "2025-01-22T12:45:22.000Z"
+	},
+	{
+		"ttnumtic": 506,
+		"ttshotxt": "Aggiornamento listini prezzi stagionali",
+		"cotitle": "FASHION WHOLESALE S.P.A.",
+		"dt_testo": "<div class=\"WordSection1\">\n<p class=\"MsoNormal\">Gentili,<\/p>\n<p class=\"MsoNormal\">dobbiamo procedere con l'aggiornamento dei listini per la stagione primavera-estate 2025.<\/p>\n<p class=\"MsoNormal\">Categorie interessate:<\/p>\n<p class=\"MsoNormal\">- Abbigliamento donna (codici 1000-1999)<\/p>\n<p class=\"MsoNormal\">- Abbigliamento uomo (codici 2000-2999)<\/p>\n<p class=\"MsoNormal\">- Accessori (codici 3000-3999)<\/p>\n<p class=\"MsoNormal\">Incremento medio: +8%<\/p>\n<p class=\"MsoNormal\">Data di attivazione: 01\/02\/2025<\/p>\n<p class=\"MsoNormal\">Cordiali saluti,<br \/>Francesca Blu<\/p>\n<\/div>",
+		"dt__data": "2025-01-22T11:20:15.000Z"
+	},
+	{
+		"ttnumtic": 507,
+		"ttshotxt": "Connessione VPN non funzionante",
+		"cotitle": "REMOTE WORK S.R.L.",
+		"dt_testo": "Buongiorno,\n\nda stamattina non riesco a connettermi alla VPN aziendale.\nHo provato sia da Windows che da Mac ma ottengo sempre \"Autenticazione fallita\".\n\nLe credenziali sono corrette, le ho verificate più volte.\nPuò essere un problema del server?\n\nGrazie per il supporto,\nPaolo Verde\nConsulente IT\npaolo.verde@remotework.it",
+		"dt__data": "2025-01-22T10:15:48.000Z"
+	},
+	{
+		"ttnumtic": 508,
+		"ttshotxt": "Migrazione server email Exchange",
+		"cotitle": "COMMUNICATION SYSTEMS S.P.A.",
+		"dt_testo": "<div class=\"WordSection1\">\n<p class=\"MsoNormal\">Spett.le Assistenza,<\/p>\n<p class=\"MsoNormal\">stiamo pianificando la migrazione del server Exchange dalla versione 2016 alla 2022.<\/p>\n<p class=\"MsoNormal\">Dettagli del progetto:<\/p>\n<p class=\"MsoNormal\">- 150 caselle di posta<\/p>\n<p class=\"MsoNormal\">- Database totale: 500GB<\/p>\n<p class=\"MsoNormal\">- Finestra di migrazione: weekend del 15-16 febbraio<\/p>\n<p class=\"MsoNormal\">Potete inviarci un preventivo per il servizio?<\/p>\n<p class=\"MsoNormal\">Grazie,<br \/>Roberto Azzurro<br \/>CTO<\/p>\n<\/div>",
+		"dt__data": "2025-01-22T09:30:25.000Z"
+	},
+	{
+		"ttnumtic": 509,
+		"ttshotxt": "Backup automatico non completato",
+		"cotitle": "DATA PROTECTION S.R.L.",
+		"dt_testo": "<div class=\"WordSection1\">\n<p class=\"MsoNormal\">Attenzione: Il backup programmato delle ore 02:00 non si è completato correttamente.<\/p>\n<p class=\"MsoNormal\">Log di errore:<\/p>\n<p class=\"MsoNormal\">- Processo interrotto al 78%<\/p>\n<p class=\"MsoNormal\">- Errore: Spazio insufficiente su disco di destinazione<\/p>\n<p class=\"MsoNormal\">- Percorso: \\\\backup-server\\daily\\<\/p>\n<p class=\"MsoNormal\">È necessario verificare lo spazio disponibile e ripetere il backup.<\/p>\n<p class=\"MsoNormal\">Grazie,<br \/>Sistema Automatico<\/p>\n<\/div>",
+		"dt__data": "2025-01-22T08:45:33.000Z"
+	},
+	{
+		"ttnumtic": 510,
+		"ttshotxt": "Richiesta formazione nuovo software CRM",
+		"cotitle": "SALES MANAGEMENT S.P.A.",
+		"dt_testo": "<div class=\"WordSection1\">\n<p class=\"MsoNormal\">Buongiorno,<\/p>\n<p class=\"MsoNormal\">abbiamo implementato il nuovo sistema CRM e vorremmo organizzare una sessione di formazione per il team commerciale.<\/p>\n<p class=\"MsoNormal\">Partecipanti: 12 persone<\/p>\n<p class=\"MsoNormal\">Durata prevista: 4 ore<\/p>\n<p class=\"MsoNormal\">Argomenti principali:<\/p>\n<p class=\"MsoNormal\">- Gestione contatti e lead<\/p>\n<p class=\"MsoNormal\">- Creazione preventivi<\/p>\n<p class=\"MsoNormal\">- Report vendite<\/p>\n<p class=\"MsoNormal\">Disponibilità: prossime due settimane<\/p>\n<p class=\"MsoNormal\">Cordialmente,<br \/>Sara Rosa<br \/>HR Manager<\/p>\n<\/div>",
+		"dt__data": "2025-01-22T07:50:17.000Z"
+	}
+]
